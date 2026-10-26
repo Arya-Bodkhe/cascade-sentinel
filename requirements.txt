@@ -1,0 +1,11 @@
+fastapi>=0.110,<1.0
+uvicorn>=0.36,<1.0
+numpy>=1.22
+scipy>=1.9
+pandas>=1.5
+scikit-learn>=1.2
+networkx>=2.8
+matplotlib>=3.6
+plotly>=5.14
+pytest>=7.2
+hypothesis>=6.70

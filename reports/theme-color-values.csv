@@ -1,0 +1,310 @@
+file,old_line,new_line,selector,property,old_color_value,new_color_value,note
+frontend/index.html,6,6,"meta[name=""theme-color""]",content,#0b1018,#0F324E,Browser theme-color
+frontend/src/main.jsx,318,318,MapPage color(),fill literal,#f16d64,#F16E65,Hue-preserving lightness adjustment for map-label contrast
+frontend/src/styles.css,1,1,:root,--bg,#090e15,var(--mist),Color-only declaration change/addition
+frontend/src/styles.css,1,1,:root,--blue,(not present),#105DC9,Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--blue,(not defined),#105DC9,New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--blue-tint,(not present),"rgba(16,93,201,.10)",Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--blue-tint,(not defined),"rgba(16,93,201,.10)",New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--cyan,#65c8d0,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,1,1,:root,--green-border,(not present),"rgba(71,198,154,.48)",Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--green-border,(not defined),"rgba(71,198,154,.48)",New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--green-ink,(not present),#175B46,Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--green-ink,(not defined),#175B46,New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--green-tint,(not present),"rgba(71,198,154,.14)",Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--green-tint,(not defined),"rgba(71,198,154,.14)",New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--indigo,#9a9ef8,var(--steel),Color-only declaration change/addition
+frontend/src/styles.css,1,1,:root,--line,#24313d,var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,1,1,:root,--mist,(not present),#F0F4F7,Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--mist,(not defined),#F0F4F7,New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--muted,#8e9baa,"rgba(15,50,78,.70)",Color-only declaration change/addition
+frontend/src/styles.css,1,1,:root,--navy,(not present),#0F324E,Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--navy,(not defined),#0F324E,New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--orange-border,(not present),"rgba(242,161,93,.52)",Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--orange-border,(not defined),"rgba(242,161,93,.52)",New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--orange-ink,(not present),#8F3F0D,Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--orange-ink,(not defined),#8F3F0D,New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--orange-tint,(not present),"rgba(242,161,93,.16)",Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--orange-tint,(not defined),"rgba(242,161,93,.16)",New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--pale,(not present),#D0DCE8,Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--pale,(not defined),#D0DCE8,New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--red,#f16d64,#F16E65,Color-only declaration change/addition
+frontend/src/styles.css,1,1,:root,--red-border,(not present),"rgba(241,110,101,.48)",Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--red-border,(not defined),"rgba(241,110,101,.48)",New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--red-hover,(not present),#8F2018,Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--red-hover,(not defined),#8F2018,New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--red-ink,(not present),#A8271E,Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--red-ink,(not defined),#A8271E,New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--red-tint,(not present),"rgba(241,110,101,.12)",Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--red-tint,(not defined),"rgba(241,110,101,.12)",New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--risk-red,(not present),#ED6D63,Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--risk-red,(not defined),#ED6D63,New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--steel,(not present),#9BB5D6,Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--steel,(not defined),#9BB5D6,New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--surface,#101720,var(--white),Color-only declaration change/addition
+frontend/src/styles.css,1,1,:root,--surface-2,#141e29,var(--mist),Color-only declaration change/addition
+frontend/src/styles.css,1,1,:root,--surface-3,#1a2632,var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,1,1,:root,--text,#e5edf6,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,1,1,:root,--white,(not present),#FFFFFF,Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--white,(not defined),#FFFFFF,New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--yellow-border,(not present),"rgba(240,209,106,.55)",Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--yellow-border,(not defined),"rgba(240,209,106,.55)",New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--yellow-ink,(not present),#705300,Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--yellow-ink,(not defined),#705300,New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,--yellow-tint,(not present),"rgba(240,209,106,.18)",Color-only declaration change/addition
+frontend/src/styles.css,,1,:root,--yellow-tint,(not defined),"rgba(240,209,106,.18)",New palette/semantic color variable
+frontend/src/styles.css,1,1,:root,background,#090e15,var(--mist),Color-only declaration change/addition
+frontend/src/styles.css,1,1,:root,color,#e5edf6,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,1,1,:root,scrollbar-color,(not present),var(--steel) var(--mist),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.ack-form input,background,#181719,var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.ack-form input,border,1px solid #5b3d39,1px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.ack-form input,color,#f5e5e3,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.action-mini.green,background,#19372f,var(--green-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.action-mini.green,color,#7edab5,var(--green-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.action-mini.orange,background,#432e20,var(--orange-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.action-mini.orange,color,#f4ad73,var(--orange-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.action-mini.red,background,#432321,var(--red-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.action-mini.red,color,#ff9991,var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.action-mini.yellow,background,#3c371d,var(--yellow-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.action-mini.yellow,color,#f0d779,var(--yellow-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.agreement-status,color,#dce6ec,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.agreement-status>span:last-child,color,#8d9aa6,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.bar-active,fill,#72d5c7,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.bar-forecast,fill,#c49348,var(--steel),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.bar-rain,fill,#328e9a,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.big-action,background,#19382f,var(--green-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.big-action,border,1px solid #33725c,1px solid var(--green-border),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.big-action,color,#6ed9aa,var(--green-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.big-action.orange,background,#402d20,var(--orange-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.big-action.orange,border-color,#885b35,var(--orange-border),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.big-action.orange,color,#f4a66a,var(--orange-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.big-action.red,background,#422321,var(--red-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.big-action.red,border-color,#883c35,var(--red-border),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.big-action.red,color,#ff9288,var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.big-action.yellow,background,#39351e,var(--yellow-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.big-action.yellow,border-color,#766530,var(--yellow-border),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.big-action.yellow,color,#f1d36c,var(--yellow-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.brand small,color,var(--muted),var(--steel),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.brand strong,color,#f3f7fb,var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.brand-mark,background,"linear-gradient(145deg,#70d8d0,#34a998)",var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.brand-mark,color,#08151b,var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.breadcrumb,color,#aebac6,var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.breadcrumb span,color,#42505d,var(--steel),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.button-danger,background,#8d3e35,var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.button-danger,border,1px solid #934a40,1px solid var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.button-danger,color,#fff1ef,var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.button-danger:hover:not(:disabled),background,#a4483d,var(--red-hover),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.chart-axis,fill,#7d8b98,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.chart-grid,stroke,#23303c,var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.chart-legend,color,#92a0ad,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.chart-point:hover .point-rule,stroke,#587286,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.check-control input,accent-color,#5dc4aa,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.compare-row strong,color,#e0e8ee,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.compare-row>div,color,#9aa7b2,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.compare-row>i,background,#222e38,var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.compare-row>i b,background,"linear-gradient(90deg,#358f9e,#857de0)","linear-gradient(90deg,var(--blue),var(--steel))",Color-only declaration change/addition
+frontend/src/styles.css,2,2,.confirm-state,background,#3c2522,var(--red-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.confirm-state,color,#ffaaa0,var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.confirm-state.confirmed,background,#18372e,var(--green-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.confirm-state.confirmed,color,#83daba,var(--green-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.crest-label,fill,#dabd83,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.crest-line,stroke,#edb95c,var(--steel),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.decision-banner,background,"linear-gradient(100deg,#16232e,#111923)",var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.decision-banner,border,1px solid #2c3a46,1px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.decision-copy .eyebrow,color,#8198a6,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.decision-copy p,color,#e2e9ef,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.decision-copy small,color,#8997a3,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.decision-symbol,background,#26363e,var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.decision-symbol,color,#e7f5f2,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.decision-symbol.green,background,#163a31,var(--green-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.decision-symbol.green,color,#81e6bf,var(--green-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.decision-symbol.orange,background,#432d21,var(--orange-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.decision-symbol.orange,color,#f4ad6e,var(--orange-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.decision-symbol.red,background,#472621,var(--red-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.decision-symbol.red,color,#ff9a91,var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.decision-symbol.yellow,background,#39361d,var(--yellow-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.decision-symbol.yellow,color,#f1d975,var(--yellow-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.detail-item span,color,#7f8e9a,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.detail-item strong,color,#dfe7ed,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".empty-chart,.empty-state",color,#84919c,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.error-box,background,#2d1d1c,var(--red-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.error-box,border,1px solid #753b36,1px solid var(--red-border),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.error-box,color,#ffd0cb,var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.error-box button,background,#482723,var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.error-box button,border,1px solid #77433d,1px solid var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.error-box button,color,#ffe1dc,var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.error-box strong,color,#ff978e,var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".event-controls label,.replay-picker",color,#768697,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".event-description,.method-copy",color,#abb8c3,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.eyebrow,color,#6caeac,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.fineprint,color,#788692,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.foot-version,color,#647383,var(--steel),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.footer-disclaimer,border-top,1px solid #1c2731,1px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.footer-disclaimer,color,#5d6c79,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.hash-pair,border-top,1px solid #26333c,1px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.hash-pair,color,#6f7e89,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.hash-pair code,color,#a0abb4,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.human-review,background,"linear-gradient(110deg,#2c1d1b,#1b1718)",var(--red-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.human-review,border,1px solid #66362e,1px solid var(--red-border),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.human-review p,color,#ba9d98,var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.human-review strong,color,#ffc0b4,var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.inline-message,color,#a7dcca,var(--green-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.integrity-bad .integrity-icon,background,#63342e,var(--red-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.integrity-bad .integrity-icon,color,#ffafa4,var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.integrity-bad strong,color,#ffaaa0,var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.integrity-banner,background,#132922,var(--green-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.integrity-banner,border,1px solid #275648,1px solid var(--green-border),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.integrity-banner small,color,#83a193,var(--green-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.integrity-banner strong,color,#9be2c1,var(--green-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.integrity-banner.integrity-bad,background,#2c1c1c,var(--red-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.integrity-banner.integrity-bad,border-color,#743c36,var(--red-border),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.integrity-icon,background,#22513f,var(--green-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.integrity-icon,color,#9ae2c1,var(--green-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.ist-clock,color,#80909e,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.ladder-step,background,#121b23,var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.ladder-step,border,1px solid #25313b,1px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.ladder-step small,color,#81909d,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.ladder-step strong,color,#dae3e9,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.ladder-step.current,background,#17272a,var(--mist),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.ladder-step.current,border-color,#52767a,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.ledger-entry,background,#111a22,var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.ledger-entry,border,1px solid #27343d,1px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.ledger-entry h3,color,#ecf2f6,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.ledger-entry time,color,#8996a2,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.ledger-kind,color,#78cabc,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.legend-bar,background,#328e9a,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.legend-line,background,var(--indigo),var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.legend-line.red,background,#ee776d,var(--risk-red),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.loading-screen,color,#97a7b1,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.map-axis,fill,#8b9aa6,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.map-cell rect,stroke,#1b2b34,var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.map-cell text,fill,#132029,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.map-cell.excluded rect,fill,#111a23,var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.map-cell.excluded rect,stroke,#647483,var(--steel),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.map-cell.excluded text,fill,#8b99a7,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.map-cell.map-selected rect,filter,drop-shadow(0 0 5px #72dfd899),"drop-shadow(0 0 5px rgba(16,93,201,.35))",Color-only declaration change/addition
+frontend/src/styles.css,2,2,.map-cell.map-selected rect,stroke,#dcfffa,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".map-cell:hover rect,.map-cell:focus rect",stroke,#fff,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.map-gridline,stroke,#263440,var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.map-legend,color,#95a2ae,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.method-bullets,color,#a5b1bb,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.method-item,border-bottom,1px solid #24303a,1px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.method-item p,color,#8d9aa7,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.method-item strong,color,#e1e8ed,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".metric-card,.panel",background,"linear-gradient(160deg,rgba(19,28,38,.98),rgba(14,21,29,.98))",var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".metric-card,.panel",border,1px solid var(--line),1px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".metric-card,.panel",box-shadow,0 8px 24px #00000014,"0 8px 24px rgba(15,50,78,.08)",Color-only declaration change/addition
+frontend/src/styles.css,2,2,.metric-hint,color,#74828f,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.metric-label,color,#8f9eaa,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.metric-value,color,#ecf2f7,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.metric-value small,color,#8d9ba7,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.metric-value.tone-green,color,var(--green),var(--green-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.metric-value.tone-orange,color,var(--orange),var(--orange-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.metric-value.tone-red,color,var(--red),var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.metric-value.tone-yellow,color,var(--yellow),var(--yellow-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.mode-control,color,#71808e,"rgba(255,255,255,.70)",Color-only declaration change/addition
+frontend/src/styles.css,2,2,".mode-control select,.event-controls select,.replay-picker select",background,#101821,var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".mode-control select,.event-controls select,.replay-picker select",color,#e3ebf3,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.nav-item,color,#9ca9b7,"rgba(255,255,255,.70)",Color-only declaration change/addition
+frontend/src/styles.css,2,2,.nav-item.active,background,"linear-gradient(90deg,rgba(77,180,166,.15),rgba(77,180,166,.04))",var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.nav-item.active,border-color,#25433f,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.nav-item.active,color,#dff9f3,var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.nav-item.active .nav-num,color,#64cfc0,var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.nav-item:hover,background,#131e28,"rgba(255,255,255,.10)",Color-only declaration change/addition
+frontend/src/styles.css,2,2,.nav-item:hover,color,#ecf4f7,var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.nav-num,color,#647383,var(--steel),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.notice,background,#282417,var(--yellow-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.notice,border,1px solid #594a2b,1px solid var(--yellow-border),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.notice,color,#c9b98b,var(--yellow-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.notice strong,color,#f1d283,var(--yellow-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.notice-danger,background,#2b1d1c,var(--red-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.notice-danger,border-color,#67342e,var(--red-border),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.notice-danger,color,#ddb1aa,var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.notice-danger strong,color,#ff9e92,var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.notice-warning,background,#282417,var(--yellow-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.notice-warning,border-color,#594a2b,var(--yellow-border),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.notice-warning,color,#c9b98b,var(--yellow-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.page-title h1,color,#f1f5f8,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.page-title p,color,#94a3b1,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.panel-head h2,color,#e7eef4,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.panel-head span,color,#71808e,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.policy-facts,border-top,1px solid #27333e,1px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.policy-reason,color,#c0ccd4,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.rain-line,stroke,var(--indigo),var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.rank-bar-wrap,background,#26313a,var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.rank-bar-wrap i,background,"linear-gradient(90deg,#398f98,#70d1bd)",var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.rank-cell,color,#dce4eb,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.rank-cell small,color,#74818e,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.rank-num,color,#6e7b87,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.rank-row,border-bottom,1px solid #202c36,1px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".rank-row:hover,.rank-row.selected",background,#18242c,var(--mist),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.rank-row>strong,color,#e1e8ee,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.rank-row>strong small,color,#73818e,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".refresh-button,.button-secondary",background,#121c26,var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".refresh-button,.button-secondary",border,1px solid var(--line),1px solid var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".refresh-button,.button-secondary",color,#cad5df,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".refresh-button:hover,.button-secondary:hover",background,#182531,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".refresh-button:hover,.button-secondary:hover",border-color,#536879,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".refresh-button:hover,.button-secondary:hover",color,(not present),var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.registry-date,color,#76bbb4,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.registry-row,border-bottom,1px solid #23303a,1px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.registry-row small,color,#788895,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.registry-row strong,color,#dce5eb,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".registry-row:hover,.registry-row.selected",background,#18252d,var(--mist),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.replay-table-wrap td,color,#c8d2da,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.replay-table-wrap th,color,#788995,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,".replay-table-wrap th,.replay-table-wrap td",border-bottom,1px solid #24303a,1px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.replay-table-wrap tr.peak-row,background,#182832,var(--mist),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.replay-table-wrap tr.peak-row td,color,#edf6f5,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.risk-line,stroke,#ee776d,var(--risk-red),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.scope-note,background,#101a21,var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.scope-note,border,1px solid #23323b,1px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.scope-note,color,#91a0ad,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.scope-note b,color,#aec2c9,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.selected-rule,stroke,#62c6cb,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.side-foot,color,#8da0ae,"rgba(255,255,255,.70)",Color-only declaration change/addition
+frontend/src/styles.css,2,2,.side-label,color,#5f6d7b,var(--steel),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.sidebar,background,#0c121a,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.sidebar,border-right,1px solid var(--line),"1px solid rgba(255,255,255,.22)",Color-only declaration change/addition
+frontend/src/styles.css,2,2,.small-loading,color,var(--cyan),var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.small-thresholds,border-top,1px solid #26333d,1px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.source-tag.assumed,background,#2b2d2b,var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.source-tag.assumed,color,#bfc7bc,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.source-tag.provided,background,#182b3a,var(--blue-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.source-tag.provided,color,#9bc9eb,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.spinner,border,2px solid #2a3b46,2px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.spinner,border-top-color,#63c8c3,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.status-pill,background,#16352e,var(--green-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.status-pill,color,#7be1bd,var(--green-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.status-pill.cached,background,#3a2e19,var(--yellow-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.status-pill.cached,color,#efca77,var(--yellow-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.status-pill.cached i,background,#e7b84f,var(--yellow),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.status-pill.danger,background,#40231f,var(--red-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.status-pill.danger,color,#ffaaa2,var(--red-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.status-pill.provided,background,#172b40,var(--blue-tint),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.status-pill.provided,color,#9bc8ef,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.status-pill.provided i,background,#77b9ec,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.status-scope,color,#bac5d0,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.status-strip,background,"rgba(17,25,34,.7)",var(--white),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.status-strip,border,1px solid #25333d,1px solid var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.status-strip,color,#9aa8b5,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.swatch.excluded,background,#111a23,var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.swatch.excluded,border,1px dashed #9aa5ae,1px dashed var(--steel),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.swatch.red,background,#f16d64,#F16E65,Color-only declaration change/addition
+frontend/src/styles.css,2,2,.text-button,color,#76c9c3,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.threshold-control b,color,#dbe5ec,var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.threshold-control input[type=range],accent-color,#66c9c1,var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.threshold-control>span,color,#92a0ad,var(--muted),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.topbar,background,(not present),var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,2,2,.topbar,border-bottom,1px solid var(--line),"1px solid rgba(255,255,255,.22)",Color-only declaration change/addition
+frontend/src/styles.css,2,2,.verified-inline,color,#83daba,var(--green-ink),Color-only declaration change/addition
+frontend/src/styles.css,2,2,body,background,"radial-gradient(ellipse at 84% 0%,rgba(42,75,86,.17),transparent 37%),var(--bg)",var(--mist),Color-only declaration change/addition
+frontend/src/styles.css,2,2,button:disabled,background-color,(not present),var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,button:disabled,border-color,(not present),var(--pale),Color-only declaration change/addition
+frontend/src/styles.css,2,2,button:disabled,color,(not present),var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,5,5,.sidebar,border-right,0,"1px solid rgba(255,255,255,.22)",Color-only declaration change/addition
+frontend/src/styles.css,5,5,.topbar,background,(not present),var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,,6,".sidebar :focus-visible,.topbar :focus-visible",outline-color,(not present),var(--white),Color-only declaration change/addition
+frontend/src/styles.css,6,6,.topbar,background,(not present),var(--navy),Color-only declaration change/addition
+frontend/src/styles.css,,8,.chart-point:focus-visible .point-rule,stroke,(not present),var(--blue),Color-only declaration change/addition
+frontend/src/styles.css,,9,.replay-table-wrap tbody tr:hover,background-color,(not present),var(--mist),Color-only declaration change/addition
